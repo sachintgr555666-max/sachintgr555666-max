@@ -62,16 +62,6 @@ fun_fact  : I spend more time questioning data than trusting it
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sachintgr555666-max&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">

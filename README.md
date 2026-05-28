@@ -21,7 +21,7 @@
 ```yaml
 name      : Sachin
 role      : Data Analyst
-location  : India 📍
+location  : Nagapattinam📍
 focus     : Exploratory Analysis · Visualization · Reporting
 learning  : SQL · Python · Power BI
 superpower: Asking "but what does this actually mean?"
@@ -36,9 +36,9 @@ fun_fact  : I spend more time questioning data than trusting it
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-online)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thinkultimate_x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.sachin.official?igsh=NHprdHZ0MjV5dGpw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sachintgr555666@gmail.com)
 
 </div>
